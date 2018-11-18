@@ -40,5 +40,6 @@ Description:  Ubuntu 18.04.1 LTS
 
 ## Windows
 
+Everything is already in place, just compile and run.
 
 
